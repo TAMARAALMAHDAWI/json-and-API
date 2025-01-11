@@ -1,0 +1,123 @@
+
+ 
+
+//3//
+{
+    "books": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publicationDate": "1925-04-10"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "publicationDate": "1949-06-08"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publicationDate": "1960-07-11"
+      }
+    ]
+  }
+
+  
+
+
+
+
+
+//4//
+{
+
+    "students": [
+      {
+        "name": "sara",
+        "grade": 85
+      },
+      {
+        "name": "Hala",
+        "grade": 92
+      },
+      {
+        "name": "adam",
+        "grade": 78
+      },
+      {
+        "name": "Amer",
+        "grade": 88
+      }
+    ]
+  }
+
+
+  
+ 
+
+
+  //5//
+ 
+
+
+//6//
+
+
+
+
+  //7//
+  {
+    "products": [
+      {
+        "name": "Laptop",
+        "price": 1000,
+        "quantity": 5
+      },
+      {
+        "name": "Smartphone",
+        "price": 700,
+        "quantity": 10
+      },
+      {
+        "name": "Headphones",
+        "price": 100,
+        "quantity": 20
+      },
+      {
+        "name": "Monitor",
+        "price": 300,
+        "quantity": 7
+      }
+    ]
+  }
+
+
+
+    
+  const jsonData = {
+    "products": [
+      { "name": "Laptop", "price": 1000, "quantity": 5 },
+      { "name": "Smartphone", "price": 700, "quantity": 10 },
+      { "name": "Headphones", "price": 100, "quantity": 20 },
+      { "name": "Monitor", "price": 300, "quantity": 7 }
+    ]
+  };
+  
+ 
+  console.log(calculateTotalRevenue(jsonData));
+  
+
+
+  //8//
+
+
+  
+
+
+
+  
+
+  
+
+
+
